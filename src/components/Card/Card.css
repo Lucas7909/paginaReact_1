@@ -1,0 +1,22 @@
+.card {
+  background-color: #1e1e1e;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+
+/* Variante productos (default) */
+.card.productos {
+  padding: 20px;
+}
+
+/* Variante inicio (más grande) */
+.card.inicio {
+  padding: 40px;
+  font-size: 18px;
+}
+
+/* Variante detalle */
+.card.detalle {
+  padding: 60px;
+  font-size: 20px;
+}

@@ -1,0 +1,9 @@
+.container-detalle {
+  padding: 40px;
+}
+
+.detalle-card {
+  background-color: #1e1e1e;
+  padding: 30px;
+  border-radius: 10px;
+}
