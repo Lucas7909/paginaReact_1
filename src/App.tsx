@@ -12,7 +12,7 @@ import './App.css';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/paginaReact_1">
       <Navbar />
       <Routes>
         <Route path="/" element={<Inicio />} />
